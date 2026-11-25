@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="com.tesseraos.home">
+        <permission name="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" />
+        <permission name="android.permission.QUERY_ALL_PACKAGES" />
+        <permission name="android.permission.REQUEST_DELETE_PACKAGES" />
+        <permission name="android.permission.STATUS_BAR" />
+        <permission name="android.permission.EXPAND_STATUS_BAR" />
+    </privapp-permissions>
+</permissions>

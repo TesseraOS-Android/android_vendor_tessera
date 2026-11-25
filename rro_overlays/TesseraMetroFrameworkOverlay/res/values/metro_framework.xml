@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="config_dialogCornerRadius">0dp</dimen>
+    <dimen name="config_buttonCornerRadius">0dp</dimen>
+    <dimen name="config_progressBarCornerRadius">0dp</dimen>
+    <dimen name="config_bottomDialogCornerRadius">0dp</dimen>
+    <dimen name="notification_content_margin_start">12dp</dimen>
+    <dimen name="notification_content_margin_end">12dp</dimen>
+    <color name="system_neutral1_900">#FF000000</color>
+    <color name="system_neutral1_1000">#FF000000</color>
+    <color name="system_neutral2_900">#FF000000</color>
+    <color name="system_neutral2_800">#FF1F1F1F</color>
+    <color name="system_accent1_500">#FF0050EF</color>
+    <color name="system_accent1_400">#FF1BA1E2</color>
+    <color name="system_accent1_300">#FF1BA1E2</color>
+    <color name="system_accent1_200">#FF0050EF</color>
+    <color name="system_accent1_100">#FF1BA1E2</color>
+</resources>
