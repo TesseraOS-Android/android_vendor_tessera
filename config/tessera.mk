@@ -13,7 +13,7 @@ PRODUCT_COPY_FILES += \
     vendor/tessera/fonts/selawik_semibold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Selawik-SemiBold.ttf \
     vendor/tessera/fonts/selawik_bold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Selawik-Bold.ttf
 
-PRODUCT_SYSTEM_PROPERTIES += \
+PRODUCT_PRODUCT_PROPERTIES += \
     ro.tessera.version=1.0 \
     ro.tessera.codename=Metro \
     ro.tessera.maintainer=BruxinCore \
