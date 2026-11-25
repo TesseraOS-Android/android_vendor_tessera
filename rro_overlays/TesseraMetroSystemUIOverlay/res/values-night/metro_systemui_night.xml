@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="shade_scrim_background_dark">#FF000000</color>
+    <color name="notification_scrim_base">#FF000000</color>
+    <color name="shade_panel_fallback">#FF000000</color>
+    <color name="notification_scrim_fallback">#FF000000</color>
+    <color name="bouncer_fallback_bg">#FF000000</color>
+    <color name="media_dialog_background">#FF000000</color>
+    <color name="media_dialog_surface_container">#FF1F1F1F</color>
+</resources>
