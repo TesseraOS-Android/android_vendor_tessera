@@ -1,6 +1,5 @@
 PRODUCT_PACKAGES += \
     TesseraHome \
-    tessera_fonts_customization.xml \
     TesseraMetroFrameworkOverlay \
     TesseraMetroSystemUIOverlay \
     TesseraMetroSettingsOverlay \
