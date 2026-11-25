@@ -15,12 +15,8 @@ PRODUCT_COPY_FILES += \
     vendor/tessera/fonts/selawik_bold.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Selawik-Bold.ttf
 
 PRODUCT_SYSTEM_PROPERTIES += \
-    ro.tessera.version=1.0-Alpha \
+    ro.tessera.version=1.0 \
     ro.tessera.codename=Metro \
     ro.tessera.maintainer=BruxinCore \
     ro.tessera.build_type=UNOFFICIAL \
-    ro.com.google.ime.theme_id=5 \
     persist.sys.theme.accent=0050EF
-
-DEVICE_PACKAGE_OVERLAYS += \
-    vendor/tessera/overlay/common

@@ -4,8 +4,11 @@
     <dimen name="config_buttonCornerRadius">0dp</dimen>
     <dimen name="config_progressBarCornerRadius">0dp</dimen>
     <dimen name="config_bottomDialogCornerRadius">0dp</dimen>
-    <dimen name="notification_content_margin_start">12dp</dimen>
-    <dimen name="notification_content_margin_end">12dp</dimen>
+    <dimen name="config_shapeCornerRadiusXsmall">0dp</dimen>
+    <dimen name="config_shapeCornerRadiusSmall">0dp</dimen>
+    <dimen name="config_shapeCornerRadiusMedium">0dp</dimen>
+    <dimen name="config_shapeCornerRadiusLarge">0dp</dimen>
+    <dimen name="config_shapeCornerRadiusXlarge">0dp</dimen>
     <color name="system_neutral1_900">#FF000000</color>
     <color name="system_neutral1_1000">#FF000000</color>
     <color name="system_neutral2_900">#FF000000</color>

@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="settingslib_surface_dark">#FF000000</color>
-    <color name="settingslib_background_dark">#FF000000</color>
+    <color name="settingslib_materialColorSurface">#FF000000</color>
+    <color name="settingslib_materialColorSurfaceDim">#FF000000</color>
+    <color name="settingslib_materialColorSurfaceContainer">#FF000000</color>
+    <color name="settingslib_materialColorSurfaceContainerLowest">#FF000000</color>
+    <color name="settingslib_materialColorSurfaceContainerLow">#FF000000</color>
+    <color name="settingslib_materialColorSurfaceContainerHigh">#FF1F1F1F</color>
+    <color name="settingslib_materialColorSurfaceContainerHighest">#FF1F1F1F</color>
+    <color name="settingslib_materialColorSurfaceBright">#FF1F1F1F</color>
 </resources>
