@@ -1,5 +1,6 @@
 PRODUCT_PACKAGES += \
     TesseraHome \
+    tessera_fonts_customization.xml \
     TesseraMetroFrameworkOverlay \
     TesseraMetroSystemUIOverlay \
     TesseraMetroSettingsOverlay \
@@ -7,7 +8,6 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_COPY_FILES += \
     vendor/tessera/prebuilt/etc/permissions/privapp-permissions-tessera.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/privapp-permissions-tessera.xml \
-    vendor/tessera/prebuilt/etc/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml \
     vendor/tessera/fonts/selawik_light.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Selawik-Light.ttf \
     vendor/tessera/fonts/selawik_semilight.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Selawik-SemiLight.ttf \
     vendor/tessera/fonts/selawik_regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/Selawik-Regular.ttf \
