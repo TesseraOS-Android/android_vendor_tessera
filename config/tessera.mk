@@ -21,5 +21,4 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.tessera.codename=Metro \
     ro.tessera.maintainer=BruxinCore \
     ro.tessera.build_type=UNOFFICIAL \
-    persist.sys.theme.accent=0050EF \
-    ro.com.android.mobiledata=true
+    persist.sys.theme.accent=0050EF
