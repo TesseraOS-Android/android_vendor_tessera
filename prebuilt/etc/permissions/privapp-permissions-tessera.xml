@@ -6,5 +6,6 @@
         <permission name="android.permission.REQUEST_DELETE_PACKAGES" />
         <permission name="android.permission.STATUS_BAR" />
         <permission name="android.permission.EXPAND_STATUS_BAR" />
+        <permission name="android.permission.WRITE_SECURE_SETTINGS" />
     </privapp-permissions>
 </permissions>

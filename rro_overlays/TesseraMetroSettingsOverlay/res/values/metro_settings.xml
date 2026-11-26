@@ -5,7 +5,7 @@
     <color name="settingslib_materialColorSurfaceContainer">#FF000000</color>
     <color name="settingslib_materialColorSurfaceContainerLowest">#FF000000</color>
     <color name="settingslib_materialColorSurfaceContainerLow">#FF000000</color>
-    <color name="settingslib_materialColorSurfaceContainerHigh">#FF1F1F1F</color>
-    <color name="settingslib_materialColorSurfaceContainerHighest">#FF1F1F1F</color>
-    <color name="settingslib_materialColorSurfaceBright">#FF1F1F1F</color>
+    <color name="settingslib_materialColorSurfaceContainerHigh">#FF000000</color>
+    <color name="settingslib_materialColorSurfaceContainerHighest">#FF000000</color>
+    <color name="settingslib_materialColorSurfaceBright">#FF000000</color>
 </resources>
