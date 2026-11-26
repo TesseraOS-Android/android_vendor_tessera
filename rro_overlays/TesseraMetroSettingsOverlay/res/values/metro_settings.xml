@@ -8,4 +8,11 @@
     <color name="settingslib_materialColorSurfaceContainerHigh">#FF000000</color>
     <color name="settingslib_materialColorSurfaceContainerHighest">#FF000000</color>
     <color name="settingslib_materialColorSurfaceBright">#FF000000</color>
+    <color name="settingslib_materialColorPrimary">#FF0050EF</color>
+    <color name="settingslib_materialColorOnPrimary">#FFFFFFFF</color>
+    <color name="settingslib_materialColorPrimaryContainer">#FF0050EF</color>
+    <color name="settingslib_materialColorOnPrimaryContainer">#FFFFFFFF</color>
+    <color name="settingslib_state_on_color">#FF0050EF</color>
+    <color name="settingslib_dialog_accent">#FF0050EF</color>
+    <color name="settingslib_text_color_preference_category_title">#FF1BA1E2</color>
 </resources>
