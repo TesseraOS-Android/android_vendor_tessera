@@ -1,3 +1,6 @@
+TARGET_BOOTANIMATION := vendor/tessera/prebuilt/media/bootanimation.zip
+TARGET_BOOTANIMATION_HALF_RES := false
+
 PRODUCT_PACKAGES += \
     TesseraHome \
     TesseraMetroFrameworkOverlay \
