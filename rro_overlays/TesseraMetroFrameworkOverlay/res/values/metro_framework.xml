@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <integer name="config_navBarInteractionMode">0</integer>
+    <string name="config_icon_mask" translatable="false">M 0 0 L 100 0 L 100 100 L 0 100 Z</string>
     <dimen name="config_dialogCornerRadius">0dp</dimen>
     <dimen name="config_buttonCornerRadius">0dp</dimen>
     <dimen name="config_progressBarCornerRadius">0dp</dimen>
